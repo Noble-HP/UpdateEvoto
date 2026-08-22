@@ -1,1 +1,11 @@
-
+{
+  "version": "6.6.2",
+  "min_required_version": "6.0.0",
+  "release_date": "2026-08-22",
+  "title": "Bản cập nhật v6.6.2: Tối ưu AutoLogin & DPI Scale",
+  "changelog": "- Tương thích hoàn hảo mọi tỉ lệ Scale & Resolution 2K/4K\n- Tăng tốc độ đăng nhập siêu tốc\n- Hệ thống AutoUpdater bảo mật mã hóa AES-256",
+  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v6.6.2/ToolEvoto_Update_6.6.2.enc",
+  "sha256": "63851fc484e183b3802793dbf93b57904f1b53f0b5d6aadf2a50b018159b9040",
+  "is_encrypted": true,
+  "mandatory": false
+}
