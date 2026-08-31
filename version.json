@@ -1,11 +1,11 @@
 {
-  "version": "7.0.0",
+  "version": "7.2.0",
   "min_required_version": "6.0.0",
-  "release_date": "2026-08-26",
-  "title": "Bản cập nhật v6.1.0: Tối ưu hệ thống",
-  "changelog": "NÂNG CẤP BYPASS HỆ THỐNG",
-  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.1.0/ToolEvoto_Update_7.1.0.enc",
-  "sha256": "d8cadd237e5c153f3c8bf8cc0d7bd979ffd1e30fba47d868ad0f4541ce5e7f11",
+  "release_date": "2026-08-31",
+  "title": "Bản cập nhật v7.2.0: Tối ưu ByPass",
+  "changelog": "Tối ưu ByPass hệ thống",
+  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.2.0/ToolEvoto_Update_7.2.0.enc",
+  "sha256": "e181936a2b85629e0f72cfe65ded3f036df099c3451e0fcc2f99de5697fcb754",
   "is_encrypted": true,
   "mandatory": false
 }
