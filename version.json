@@ -1,1 +1,11 @@
-
+{
+  "version": "7.3.3",
+  "min_required_version": "6.0.0",
+  "release_date": "2026-09-06",
+  "title": "Bản cập nhật v7.3.3: Tối ưu hệ thống",
+  "changelog": "Tối ưu ByPass hệ thống",
+  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.3.3/ToolEvoto_Update_7.3.3.enc",
+  "sha256": "4fe134f4bc75ac2d3f3165dacd51b180af18c128b29c2a308049dfed09f3c21c",
+  "is_encrypted": true,
+  "mandatory": false
+}
