@@ -1,11 +1,11 @@
 {
-  "version": "7.9.3",
+  "version": "7.9.4",
   "min_required_version": "6.0.0",
-  "release_date": "2026-10-11",
-  "title": "Bản cập nhật v7.9.3: Tối ưu hệ thống",
-  "changelog": "ByPass + fix lỗi tương thích",
-  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.9.3/ToolEvoto_Update_7.9.3.enc",
-  "sha256": "e20538995cf55dacdb0efce2a270e1e9a1a61ce5f7df356a30cf2f44620ee304",
+  "release_date": "2026-10-15",
+  "title": "Bản cập nhật v7.9.4: Tối ưu hệ thống",
+  "changelog": "",
+  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.9.4/ToolEvoto_Update_7.9.4.enc",
+  "sha256": "f2cf7fab3a3ea5d8b54b215ef51957707e33cd1cf97b2ec3ced094cf152e86c4",
   "is_encrypted": true,
   "mandatory": false
 }
