@@ -1,11 +1,11 @@
 {
-  "version": "7.9.10",
+  "version": "7.9.13",
   "min_required_version": "6.0.0",
-  "release_date": "2026-10-30",
-  "title": "Bản cập nhật v7.9.10: Tối ưu hệ thống",
+  "release_date": "2026-11-02",
+  "title": "Bản cập nhật v7.9.13: Tối ưu hệ thống",
   "changelog": "- Tương thích hoàn hảo mọi tỉ lệ Scale & Resolution 2K/4K\n- Tăng tốc độ đăng nhập siêu tốc\n- Hệ thống AutoUpdater bảo mật mã hóa AES-256",
-  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.9.10/ToolEvoto_Update_7.9.10.enc",
-  "sha256": "29dbc15ac446db31d3bb33c13f90b9ca12fd2b4feca15a9a230ad6d1736e8d33",
+  "download_url": "https://github.com/Noble-HP/UpdateEvoto/releases/download/v7.9.13/ToolEvoto_Update_7.9.13.enc",
+  "sha256": "712cbaa0bd09bd778fb0ffc56cc10d3e60ebb12a82c6b37a9adff02f2ffa0a04",
   "is_encrypted": true,
   "mandatory": false
 }
